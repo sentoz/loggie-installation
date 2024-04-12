@@ -1,4 +1,4 @@
-image: loggieio/loggie:v1.4.0
+image: loggieio/loggie:v1.5.0
 
 resources:
   limits:
